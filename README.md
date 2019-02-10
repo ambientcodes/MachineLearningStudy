@@ -23,23 +23,29 @@
     - **[한글번역]** 파이썬을 이용한 웹 스크래핑 (Using Python to Access Web Data - https://www.edwith.org/python-network-data)
     - **[한글번역]** 파이썬을 이용한 데이터베이스 처리 (Using Databases with Python - https://www.edwith.org/python-databases)
     - **[한글번역]** 캡스톤 : 파이썬을 이용한 데이터 검색, 처리 및 시각화 (Capstone : Retrieving, Processing and Visualizing Data - https://www.edwith.org/python-capston)
-  - 파이썬을 활용한 기초 컴퓨터 프로그래밍 - 부산대, 최윤호 교수 (https://www.edwith.org/pnu-basicpython)
+  - 기초 PYTHON 프로그래밍 - 서강대학교 SW교육센터 이지선 교수(https://www.edwith.org/sogang_python)
+  - 파이썬을 활용한 기초 컴퓨터 프로그래밍 - 부산대, 유영환 교수 (https://www.edwith.org/pnu-basicpython)
+  - 파이선 프로그래밍 심화 - 경북대학교 소프트웨어 교육센터, 김상욱 교수 (https://www.edwith.org/knuswedu-python)
   - 머신러닝을 위한 파이썬 워밍업 (https://www.edwith.org/aipython)
 - C / C++
   - C언어를 활용한 기초 컴퓨터 프로그래밍 - 부산대, 최윤호 교수 (https://www.edwith.org/pnu-basicc)
 - C#
+- 기타
+  - R언어를 활용한 기초 컴퓨터 프로그래밍 - 부산대, 박성호 교수 (https://www.edwith.org/pnu-basicr)
 
 ### 2. Mathematics
 
 - 국내
+  - 미적분: 삼각함수편 (https://www.edwith.org/sutudy2)
   - 선형대수 with Khan Academy (https://www.edwith.org/linear-algebra)
   - 인공지능을 위한 선형대수 (https://www.edwith.org/linearalgebra4ai)
 - 해외
 
-### 3. Probabilistics & Statistics
+### 3. Probability & Statistics
 
 - Statistics 110 from Harvard (https://www.edwith.org/harvardprobability)
-- 
+
+
 
 
 
@@ -59,10 +65,12 @@
   - [한글번역] 합성곱 신경망 네트워크 (Convolutional Neural Networks - https://www.edwith.org/deeplearningai4)
 - Bayesian Deep Learning (https://www.edwith.org/bayesiandeeplearning)
 - Reinforcement Learning - HKUST김성훈 교수 (https://www.edwith.org/others27)
+- 인공지능 및 기계학습 개론 1 - KAIST Open Online Course, 문인철 교수 (https://www.edwith.org/machinelearning1_17)
+- 인공지능 및 기계학습 개론 2 - KAIST Open Online Course, 문인철 교수(https://www.edwith.org/machinelearning2__17)
 
 
 
-## [사이트]
+## [관련 사이트]
 
 - Tensor Flow
   - 
