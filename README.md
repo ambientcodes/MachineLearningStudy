@@ -7,6 +7,7 @@
 ### 1. Computer Science
 
 - **MOOC**
+  - [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
   - **MIT 6.0002 Introduction to Computational Thinking and Data Science** (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
     - **[한글번역]** Data Science from MIT (https://www.edwith.org/datascience)
   - **MIT 6.006 Introduction to Algorithm** (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -79,3 +80,6 @@
 
 ## [블로그]
 
+## [기타]
+
+- ##### [[통찰의연결 특강\] 인공지능 시대의 소프트웨어 교육](https://www.edwith.org/connectedinsights/home)
