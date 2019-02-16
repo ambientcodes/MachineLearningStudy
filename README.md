@@ -15,10 +15,9 @@
 
 - #### **Lecture**
 
-  - ##### Python
+  - Python
 
-    - ##### [Python for Everybody: Michigan University](https://www.py4e.com)
-
+    - [Python for Everybody: Michigan University](https://www.py4e.com)
       - [[한글번역] 모두를 위한 프로그래밍 : 파이썬(Getting Started with Python)](https://www.edwith.org/pythonforeverybody) 
       - [[한글번역] 파이썬 자료구조 (Python Data Structures)](https://www.edwith.org/python-data)
       - [[한글번역] 파이썬을 이용한 웹 스크래핑 (Using Python to Access Web Data)](https://www.edwith.org/python-network-data)
@@ -58,8 +57,6 @@
 ### 3. Probability & Statistics
 
 - [[한글번역] Statistics 110 from Harvard](https://www.edwith.org/harvardprobability)
-
-
 
 
 
